@@ -1,5 +1,5 @@
 homepage: "https://www.getquanty.com"
 documentation: "https://www.getquanty.com/wp-content/uploads/2021/11/Installer-le-script-GetQuanty-via-Google-Tag-Manager-GTM-–-GetQuanty.pdf"
 versions:
-  - sha: 05a6fb4b293721a55addcc4201baa8bb5ada7977
+  - sha: f0490c9de4e69461def27da0c7da84c573666221
     changeNotes: Initial release.
